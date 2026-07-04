@@ -16,11 +16,11 @@ A full-stack expense tracking app with user authentication, expense management, 
 
 ## Screenshots
 
-![Home Page](images/home-page.svg)
+![Home Page](images/Screenshot%202026-07-04%20135809.png)
 
-![Dashboard Preview](images/dashboard-preview.svg)
+![Dashboard Preview](images/Screenshot%202026-07-04%20135921.png)
 
-![Login Preview](images/login-preview.svg)
+![Login Preview](images/Screenshot%202026-07-04%20135937.png)
 
 ## Prerequisites
 - Node.js and npm
